@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100vh;
+  font-family: "Poppins";
+  background: rgb(51, 125, 185);
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  right: 0;
+  outline: none;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  color: white;
+  margin: 16em 8em;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: monospace;
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: monospace;
+  padding: 0.2rem;
+  z-index: 6;
+  margin-top: -0.2rem;
+  width: 80%;
+  color: rgb (107, 107, 122);
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.6rem;
+  margin-top: 0.2em;
+  background-color: rgb(255, 255, 255);
+  border: black;
+  color: rgb(51, 125, 185);
+  font-weight: bold;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100vh;
+  font-family: "Poppins";
+  background: rgb(51, 125, 185);
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  right: 0;
+  outline: none;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  color: white;
+  margin: 16em 8em;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: monospace;
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: monospace;
+  padding: 0.2rem;
+  z-index: 6;
+  margin-top: -0.2rem;
+  width: 80%;
+  color: rgb (107, 107, 122);
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.6rem;
+  margin-top: 0.2em;
+  background-color: rgb(255, 255, 255);
+  border: black;
+  color: rgb(51, 125, 185);
+  font-weight: bold;
+  font-family: monospace;
+  text-transform: uppercase;
+}
